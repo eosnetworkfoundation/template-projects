@@ -3,6 +3,8 @@
 This is an EOS example project that demonstrates how to use EOS to build smart contracts, and UIs.
 In this project we have a simple meme token creator, browser, minter, burner, and transferrer.
 
+[Click here to see it running live](https://mememachines.netlify.app/) on the Jungle Testnet.
+
 > This is a starting point, it will be up to you to take this project and make it your own.
 
 ### Tech Stack
